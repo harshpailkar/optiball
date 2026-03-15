@@ -2,6 +2,8 @@
 
 **OptiBall** is a visual exploration of how different optimization algorithms—the "marbles" of machine learning—behave when dropped into complex mathematical terrains. 
 
+![Optimization Paths on Ackley Function](ackley.png)
+
 Starting from the foundations of **Andrej Karpathy's `micrograd`**, I built a custom autograd engine from scratch and used it to simulate how **Vanilla SGD**, **Momentum**, and **Nesterov Accelerated Gradient (NAG)** navigate the notorious **Ackley Function**.
 
 
