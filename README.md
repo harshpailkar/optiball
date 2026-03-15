@@ -30,3 +30,13 @@ The visualization uses a "lifted Z-axis" approach to prevent clipping between th
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/harshpailkar/OptiBall.git](https://github.com/harshpailkar/OptiBall.git)
+
+2. **Install dependencies:**
+   ```bash
+   pip install numpy matplotlib
+
+3. **Run the simulation:**
+   ```bash
+   python main.py
+
+
