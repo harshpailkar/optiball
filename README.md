@@ -38,5 +38,3 @@ The visualization uses a "lifted Z-axis" approach to prevent clipping between th
 3. **Run the simulation:**
    ```bash
    python main.py
-
-
