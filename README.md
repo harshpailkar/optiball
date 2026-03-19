@@ -9,7 +9,7 @@ Starting from the foundations of **Andrej Karpathy's `micrograd`**, I built a cu
 
 
 ## 🧠 Why this project?
-In deep learning, we often treat optimizers like `Adam` or `SGD` as black boxes. This project breaks that box open. By implementing the math from first principles, I discovered that optimization isn't just about "learning"—it's about the physics of motion, energy, and landscape geometry.
+In deep learning, we often treat optimizers like `Adam` or `SGD` as black boxes. This project breaks that box open. By implementing the math from first principles, I discovered that optimization isn't just about "learning", it's about the physics of motion, energy, and landscape geometry.
 
 ## 🚀 Key Insights
 * **Initialization is Destiny:** An optimizer is only as good as its starting point. In non-convex landscapes like the Ackley function, starting in a "bad neighborhood" means getting trapped in a local minimum, regardless of how advanced the algorithm is.
